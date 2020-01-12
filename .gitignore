@@ -1,0 +1,10 @@
+# Directories to ignore
+**/.idea/
+**/.git/
+**/.ipynb_checkpoints/
+**/temp/
+**/__pycache__/
+
+# Files to ignore
+*.tmp
+*.pyc
